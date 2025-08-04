@@ -68,8 +68,8 @@ git clone https://github.com/warthecoder/DEVIOUS-Self-Bot
 cd devious
 pip install -r requirements.txt
 
-🧪 2. Run the Client
-  # python devious.py
+🧪 2. Run the File
+  # Devious.exe
 
 🧾 REQUIREMENTS
 All dependencies are in requirements.txt. To install:
