@@ -1,6 +1,6 @@
 # 💀 DEVIOUS  — DISCORD SELF-BOT 
 
-A custom Discord selfbot coded  by [@imneverenough](https://discord.gg/PvVy76emAr) 
+A custom Discord selfbot coded  by War #031
 # ⚠️ WARNING
 This is a Discord selfbot, and using it violates Discord’s Terms of Service.
 You can be disabled, warned, or banned if you abuse this client.
@@ -64,7 +64,7 @@ I AM not responsible for what you do with this code. Educational purposes only.
 ### 🔧 1. Clone & Install
 or just click the green code button and click download zip.
 ```bash
-git clone https://github.com/muzfr/DEVIOUS
+git clone https://github.com/warthecoder/DEVIOUS-Self-Bot
 cd devious
 pip install -r requirements.txt
 
@@ -79,17 +79,14 @@ colorama
 
 
 # 👑 CREDITS
-🔥 Made by: @imneverenough 
+🔥 Made by: @War #031 
 
-💬 Discord: @imneverenough
-🧠 Dev: Muz 
+💬 Discord: @68153
+🧠 Dev: War 
 
 
 # CONTRIBUTE
 Want to suggest features, add more packs, or refactor code?
-Join discord.gg/says to give me more ideas.
-Pull requests are welcome. Open issues for bugs or feature requests.
-
 
 
 
